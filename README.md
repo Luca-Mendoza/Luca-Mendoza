@@ -10,12 +10,12 @@ import WebDeveloper from 'mendozaluca';
 class Bio extends WebDeveloper {
   name     = 'Luca Alberto Daniel';
   latsname = 'Mendoza';
-  title    = 'Web developer';
+  title    = 'Front End Web Development';
   location = 'Argentina, Buenos Aires, Tandil';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['HTML5','CSS3','JavaScript'];
+class Skills extends WebDeveloper {
+  languages  = ['HTML5','CSS3','JavaScript','TypeScript'];
   frameworks = [
         {
           JavaScript : ['Angular']
@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
           CSS3 : ['Material Angular','Materialize','Bootstrap']
         },
   ];
-  tools = ['GIT', 'GitHub', 'GitLab', 'Trello', 'Postman',];
+  tools = ['GIT', 'GitHub', 'GitLab', 'Trello', 'Postman','MongoDb Compass'];
 
 }
 ```
