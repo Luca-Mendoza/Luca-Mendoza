@@ -24,6 +24,7 @@ class Skills extends WebDeveloper {
           CSS3 : ['Material Angular','Materialize','Bootstrap']
         },
   ];
+  library = [ 'Redux - NGRX' ];
   tools = ['GIT', 'GitHub', 'GitLab', 'Trello', 'Postman','MongoDb Compass'];
 
 }
