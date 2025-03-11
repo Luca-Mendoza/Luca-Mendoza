@@ -13,8 +13,7 @@ class Bio extends WebDeveloper {
   location = 'Tandil, Buenos Aires, Argentina';
   descripcion = 'Soy un **Desarrollador Web** apasionado por la tecnología y
   la construcción de soluciones web escalables y dinámicas.  
-  Siempre buscando aprender y mejorar.
-';
+  Siempre buscando aprender y mejorar.';
 }
 
 class Skills extends WebDeveloper {
