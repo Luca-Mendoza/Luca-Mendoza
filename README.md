@@ -11,7 +11,12 @@ class Bio extends WebDeveloper {
   lastname = 'Mendoza';
   title    = 'Frontend Web Developer';
   location = 'Tandil, Buenos Aires, Argentina';
-  description = 'Soy un **Desarrollador Web**\napasionado por la tecnología y la construcción de soluciones web escalables y dinámicas.';
+  email    = 'mendoza.d.luca@gmail.com'
+  web      = 'https://lucadmendoza.dev/'
+  description = [
+    'Soy un **Desarrollador Web** apasionado por la tecnología y,
+     la construcción de soluciones web escalables y dinámicas.'
+  ];
 }
 
 class Skills extends WebDeveloper {
