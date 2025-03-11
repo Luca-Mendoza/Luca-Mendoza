@@ -14,9 +14,9 @@ class Bio extends WebDeveloper {
   email    = 'mendoza.d.luca@gmail.com'
   web      = 'https://lucadmendoza.dev/'
   description = [
-    'Soy un **Desarrollador Web** apasionado por la tecnología y,
+    'Soy un **Desarrollador Web** apasionado por la tecnología y
      la construcción de soluciones web escalables y dinámicas.'
-  ];
+  ]
 }
 
 class Skills extends WebDeveloper {
